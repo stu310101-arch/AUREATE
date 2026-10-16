@@ -1,2 +1,1 @@
-# AUREATE
-AUREATE - 黑金影音下載桌面軟體
+[README.md](https://github.com/user-attachments/files/33555501/README.md)
